@@ -7,7 +7,7 @@ The interviewer may ask you to solve without using any library method e.g. index
 
 Read more: https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#ixzz5g8ImEnh8
  */
-package StringPalindrome;
+package CheckIfWordIsAPalindrome;
 
 import java.io.File;
 import java.io.FileNotFoundException;

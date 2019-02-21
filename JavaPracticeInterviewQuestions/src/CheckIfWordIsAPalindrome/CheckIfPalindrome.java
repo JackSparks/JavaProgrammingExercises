@@ -1,4 +1,4 @@
-package StringPalindrome;
+package CheckIfWordIsAPalindrome;
 
 import java.lang.reflect.Array;
 
